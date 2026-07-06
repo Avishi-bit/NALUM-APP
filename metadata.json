@@ -1,0 +1,6 @@
+{
+  "name": "Alumni Mentorship Platform",
+  "description": "A polished career development platform where students can find alumni mentors, request sessions, and engage in community discussions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
